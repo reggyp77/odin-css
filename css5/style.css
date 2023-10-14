@@ -3,18 +3,14 @@
     font-size: 20px;
     text-align: center;
     background-color: yellow;
-    padding:;
+    padding:none;
 }
-.text {
 
-}
 
 /* added below from the solution for this excercise :
 /*didnt realise that i could add the class .text to the class .container as i have above until after i completed the assignment
 /* Below are some other possible descendant combinators:
 
-div p
-div .text
-.container p
-
-*/
+/*div p
+/*div .text
+.container p */ 
